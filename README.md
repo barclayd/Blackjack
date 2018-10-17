@@ -15,7 +15,7 @@ Blackjack game written in Python with Command Line Interface
 
 <img width="1214" alt="screenshot 2018-10-14 at 11 20 10" src="https://user-images.githubusercontent.com/39765499/46915408-55266a80-cfa3-11e8-90e7-43d347524bfe.png">
 
-##### Dealer Wins 😣
+##### User Wins 😁
 
 <img width="1214" alt="screenshot 2018-10-14 at 11 20 43" src="https://user-images.githubusercontent.com/39765499/46915407-55266a80-cfa3-11e8-9f7d-40617b0fd2d4.png">
 
