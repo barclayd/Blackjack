@@ -9,8 +9,6 @@ Blackjack game written in Python with Command Line Interface
 
 3. Run `python Blackjack`
 
-#### In Game Play
-
 ##### Initial Screen
 
 <img width="1214" alt="screenshot 2018-10-14 at 11 20 10" src="https://user-images.githubusercontent.com/39765499/46915408-55266a80-cfa3-11e8-90e7-43d347524bfe.png">
